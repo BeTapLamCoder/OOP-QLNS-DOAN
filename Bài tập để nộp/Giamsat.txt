@@ -1,0 +1,12 @@
+{
+  "Id": "GS",
+  "Name": "Gi\u00E1m s\u00E1t",
+  "Manager": null,
+  "Listemployees": [
+    {
+      "Id": "1",
+      "Name": "HUY",
+      "Iddepartment": "GS"
+    }
+  ]
+}

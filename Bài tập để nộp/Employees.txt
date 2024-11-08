@@ -1,0 +1,14 @@
+[
+  {
+    "Position": "Employee",
+    "Description": null,
+    "Start": "2024-11-08T20:09:13.696859+07:00",
+    "Id": "1",
+    "Name": "HUY",
+    "Birth": "2000-01-31T23:42:39",
+    "Gmail": "3131231",
+    "Phone": "31231",
+    "Iddepartment": "GS",
+    "Gender": "Female"
+  }
+]
