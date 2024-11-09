@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace OOPWF
 {
-    //dùng xuyên suốt
+    
     [Serializable]
     public class Employee : Employeebase, Task
     {
